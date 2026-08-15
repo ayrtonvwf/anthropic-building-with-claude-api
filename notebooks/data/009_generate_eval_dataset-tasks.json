@@ -1,0 +1,14 @@
+[
+  {
+    "task": "Parse an AWS S3 bucket URI and extract the bucket name and object key from a string like 's3://my-bucket/path/to/object.txt'",
+    "format": "regex"
+  },
+  {
+    "task": "Create a JSON policy document that grants an IAM user read-only access to a specific S3 bucket named 'company-data'",
+    "format": "json"
+  },
+  {
+    "task": "Write a Python function that takes an AWS region code (e.g., 'us-east-1') and returns the corresponding region name (e.g., 'N. Virginia')",
+    "format": "python"
+  }
+]
